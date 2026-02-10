@@ -3,7 +3,10 @@
 
 Campina Grande, Brazil (Open to Remote Worldwide)
 +55 (15) 99795-0102 | viniciusglaureano@gmail.com
-[LinkedIn](https://www.linkedin.com/in/vinícius-gabriel-laureano/) | [GitHub](https://github.com/ViniciusLaureano)
+
+**LinkedIn**: [linkedin.com/in/vinícius-gabriel-laureano/](https://www.linkedin.com/in/vinícius-gabriel-laureano/) 
+
+**GitHub**: [github.com/ViniciusLaureano](https://github.com/ViniciusLaureano)
 
 ---
 
@@ -20,6 +23,7 @@ Proven track record of logical excellence, evidenced by multiple awards in Infor
 * **Automation & Low-code:** **n8n** (Complex workflows & orchestration), Webhooks, API Integrations, Excel/VBA Macros.
 * **Databases:** PostgreSQL, MySQL, Relational Data Modeling, Query Optimization.
 * **Tools & DevOps:** Git/GitHub, Docker, Linux, Agile Methodologies (Scrum/Kanban).
+* **Languages:** **English (Advanced/Fluent)**, Portuguese (Native).
 * **Frontend (Fullstack Capable):** Angular, HTML5, CSS3.
 
 ---

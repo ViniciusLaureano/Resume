@@ -3,14 +3,17 @@
 
 Campina Grande, PB (Disponível para atuar Remoto)
 (15) 99795-0102 | viniciusglaureano@gmail.com
-[LinkedIn](https://www.linkedin.com/in/vinícius-gabriel-laureano/) | [GitHub](https://github.com/ViniciusLaureano)
+
+[LinkedIn: linkedin.com/in/vinícius-gabriel-laureano/](https://www.linkedin.com/in/vinícius-gabriel-laureano/) 
+
+[GitHub: github.com/ViniciusLaureano](https://github.com/ViniciusLaureano)
 
 ---
 
 ## RESUMO PROFISSIONAL
 Desenvolvedor de Software com sólida base em **Algoritmos e Estrutura de Dados**, graduando em Ciência da Computação pela UFCG. Especialista na construção de **APIs robustas** (Node.js/NestJS, Java, C#) e **Automação de Processos de Negócio** utilizando **n8n** e Python.
 
-Profissional com histórico comprovado de excelência lógica, premiado em Olimpíadas de Informática (OBI) e Matemática (OBMEP). Possui experiência internacional em pesquisa (Canadá) e atuação em projetos ágeis (Dell, Startups), com foco na criação de soluções escaláveis que integram sistemas heterogêneos e eliminam ineficiências operacionais.
+Profissional bilíngue (Inglês Avançado) com histórico comprovado de excelência lógica, premiado em Olimpíadas de Informática (OBI) e Matemática (OBMEP). Possui experiência internacional em pesquisa (Canadá) e atuação em projetos ágeis (Dell, Startups), focado em criar soluções escaláveis que integram sistemas heterogêneos e eliminam ineficiências operacionais.
 
 ---
 
