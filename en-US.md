@@ -1,74 +1,71 @@
 # VINÍCIUS GABRIEL LAUREANO
-**Backend Developer | Automation Engineer | CS Student @ UFCG**
+**Software Engineer | Backend & Automation Specialist**
 
-Campina Grande, Brazil (Open to Remote Worldwide)
+Campina Grande - PB, Brazil
+
 +55 (15) 99795-0102 | viniciusglaureano@gmail.com
 
-**LinkedIn**: [linkedin.com/in/vinícius-gabriel-laureano/](https://www.linkedin.com/in/vinícius-gabriel-laureano/) 
-
-**GitHub**: [github.com/ViniciusLaureano](https://github.com/ViniciusLaureano)
+[LinkedIn: linkedin.com/in/vinícius-gabriel-laureano](https://www.linkedin.com/in/vinícius-gabriel-laureano) | [GitHub: github.com/ViniciusLaureano](https://github.com/ViniciusLaureano)
 
 ---
 
 ## PROFESSIONAL SUMMARY
-Software Developer with a strong foundation in **Algorithms and Data Structures**, currently pursuing a B.Sc. in Computer Science at UFCG (Top-tier Tech University in Brazil). Specialized in building **scalable APIs** (Node.js/NestJS, Java, C#) and **Business Process Automation** using **n8n** and Python.
-
-Proven track record of logical excellence, evidenced by multiple awards in Informatics (OBI) and Mathematics (OBMEP) Olympiads. Offers international research experience (Canada) and a pragmatic approach to Agile software development (Dell, Startups), focusing on integrating heterogeneous systems and eliminating operational inefficiencies.
+Software Engineer with a solid foundation in Algorithms and Data Structures, currently pursuing a B.S. in Computer Science at the Universidade Federal de Campina Grande (UFCG). Advanced English speaker with an analytical and systemic mindset, specializing in building robust APIs and Business Process Automation. Excels at taking ownership of ground-up architectures, leading technical teams, and translating complex operational bottlenecks into high-impact solutions.
 
 ---
 
 ## TECHNICAL SKILLS
 
-* **Backend & APIs:** TypeScript, JavaScript, Java, Python, C# (.NET), NestJS, Prisma ORM, Quarkus.
-* **Automation & Low-code:** **n8n** (Complex workflows & orchestration), Webhooks, API Integrations, Excel/VBA Macros.
-* **Databases:** PostgreSQL, MySQL, Relational Data Modeling, Query Optimization.
+* **Languages:** TypeScript, JavaScript, Java, Python, C#, SQL, Clojure.
+* **Backend & APIs:** Node.js, NestJS, .NET, Prisma ORM, Quarkus, REST APIs.
+* **Process Automation:** n8n (Complex workflows and orchestration), Webhooks, API Integrations, Excel/VBA Macros.
+* **Databases:** PostgreSQL, MySQL, Relational Modeling, Query Optimization.
 * **Tools & DevOps:** Git/GitHub, Docker, Linux, Agile Methodologies (Scrum/Kanban).
-* **Languages:** **English (Advanced/Fluent)**, Portuguese (Native).
-* **Frontend (Fullstack Capable):** Angular, HTML5, CSS3.
+* **Front-end (Full Stack Competencies):** Angular, HTML5, CSS3.
 
 ---
 
 ## PROFESSIONAL EXPERIENCE
 
-**Backend Developer (R&D Project)** | Dell Technologies (Academic Partnership)
+**Back-end Engineer (R&D Project)** | Dell Technologies (Academic Partnership)
 *Jan 2025 – Present*
-* Developing robust RESTful APIs using **C# (.NET)** for internal management systems, prioritizing Clean Code principles and scalable architecture.
-* Implementing automated testing and actively participating in code reviews to ensure software reliability and maintainability.
-* Collaborating in an Agile environment (Scrum) with bi-weekly deliverables, focusing on technical debt resolution and continuous improvement.
+* Develop scalable RESTful APIs using C# (.NET) for internal management systems, streamlining global processes and centralizing them into a single platform.
+* Implement automated testing, increasing system reliability with over 85% code coverage and reducing the incidence of production bugs.
 
-**Tech Lead & Fullstack Developer** | Freelance Projects
+**Tech Lead & Full Stack Engineer** | Freelance / Contractor
 *May 2025 – Present*
-* Leading the architecture and development of a modular School Management System using **NestJS (Backend)**, **Prisma**, and **PostgreSQL**.
-* Coordinating a multidisciplinary team, responsible for data modeling and assigning frontend tasks (Angular).
-* *Impact:* Centralized the client's academic and financial management through a high-performance integrated web solution.
+* Lead the architecture and development of a modular Municipal School Management System using **NestJS (Backend)**, **Prisma**, and **PostgreSQL**.
+* Coordinate a team of front-end developers (Angular), accelerating the project timeline by approximately 2 months through effective productivity management.
+* Centralized the municipality's academic and financial management through an integrated, high-performance web solution, replacing 80% of the client's analog and paper-based activities.
 
-**Fullstack Developer & Automation Engineer** | Infinity System LTDA.
+**Full Stack & Automation Engineer** | Infinity System LTDA.
 *Jan 2023 – Oct 2024*
-* Spearheaded digital transformation initiatives by developing **Python scripts and Excel/VBA automations**, drastically reducing manual data processing time.
-* Developed and maintained custom web solutions for clients using PHP and MySQL, ensuring high availability and data security.
-* Integrated legacy systems with modern digital tools to optimize the company's operational workflow.
+* Automated company data processing by developing Python scripts and Excel/VBA macros, reducing manual workload from 20 hours to 4 hours per week.
+* Developed and maintained custom web solutions using PHP and MySQL for 4 corporate clients, optimizing database queries to ensure high availability.
+* Streamlined internal operations by integrating legacy systems with new digital tools via REST API consumption.
 
-**Undergraduate Researcher (AI/Computer Vision)** | Unicamp (COTIL) & Univ. of Waterloo
+**AI Undergraduate Researcher** | Unicamp (COTIL) & Univ. of Waterloo
 *Jan 2021 – Dec 2022*
-* Developed **Computer Vision algorithms in Python** to analyze facial micro-expressions for psychological diagnosis support (Project PsicopatoLog).
-* Selected to present the research at the **University of Waterloo (Canada)**, validating technical innovation and English communication skills.
+* Developed Computer Vision algorithms in Python for facial micro-expression analysis to support psychological diagnostics (PsicopatoLog Project).
+* Project selected for presentation and further development at the **University of Waterloo (Canada)**, validating technological innovation and technical communication skills in English.
 
 ---
 
 ## EDUCATION
 
-**B.Sc. in Computer Science**
-Federal University of Campina Grande (UFCG) | *Expected: Jul 2027*
+**B.S. in Computer Science**
+Universidade Federal de Campina Grande (UFCG) | *Expected: Jul 2027*
 * *Focus:* Advanced Data Structures, Software Engineering, Databases, and Artificial Intelligence (AI).
 
-**Technical Degree in Informatics**
-UNICAMP Technical College (COTIL) | *Completed: 2022*
+**IT Technician Degree**
+Colégio Técnico da UNICAMP (COTIL) | *Completed: 2022*
 
 ---
 
 ## AWARDS & CERTIFICATIONS
 
-* **Paraíba State Informatics Olympiad (2024):** Gold Medal.
-* **Brazilian Informatics Olympiad - OBI (2024):** Honorable Mention (Top Tier in Algorithms).
+* **Languages:** English B2 (Upper-Intermediate) - Wizard Language School.
+* **Paraíba Informatics Olympiad (2024):** Gold Medal.
+* **Brazilian Olympiad in Informatics - OBI (2024):** Honorable Mention (Top Tier in Algorithms).
 * **Brazilian Mathematics Olympiad - OBMEP (2022):** Silver Medal.
-* **Certifications:** Fullstack JavaScript (OneBitCode), Advanced SQL, Emotional Intelligence (Cis Method).
+* **Certifications:** Full Stack JavaScript (OneBitCode), Introduction to Clojure (NuFuturo), Advanced SQL, Emotional Intelligence (Método Cis).
