@@ -10,18 +10,18 @@ Campina Grande - PB, Brazil
 ---
 
 ## PROFESSIONAL SUMMARY
-Software Engineer with a solid foundation in Algorithms and Data Structures, currently pursuing a B.S. in Computer Science at the Universidade Federal de Campina Grande (UFCG). Advanced English speaker with an analytical and systemic mindset, specializing in building robust APIs and Business Process Automation. Excels at taking ownership of ground-up architectures, leading technical teams, and translating complex operational bottlenecks into high-impact solutions.
+Software Engineer with a solid foundation in Algorithms and Data Structures, currently pursuing a B.S. in Computer Science at the Universidade Federal de Campina Grande (UFCG). Advanced English speaker with an analytical and systemic mindset, specializing in building robust APIs (**Java/Spring** and Node.js ecosystems) and Business Process Automation. Excels at taking ownership of ground-up architectures, leading technical teams, and translating complex operational bottlenecks into high-impact solutions.
 
 ---
 
 ## TECHNICAL SKILLS
 
-* **Languages:** TypeScript, JavaScript, Java, Python, C#, SQL, Clojure.
-* **Backend & APIs:** Node.js, NestJS, .NET, Prisma ORM, Quarkus, REST APIs.
+* **Languages:** Java, TypeScript, JavaScript, Python, C#, SQL, Clojure.
+* **Backend & APIs:** Java (Spring Boot, Quarkus), Node.js, NestJS, .NET, Prisma ORM, REST APIs.
 * **Process Automation:** n8n (Complex workflows and orchestration), Webhooks, API Integrations, Excel/VBA Macros.
 * **Databases:** PostgreSQL, MySQL, Relational Modeling, Query Optimization.
 * **Tools & DevOps:** Git/GitHub, Docker, Linux, Agile Methodologies (Scrum/Kanban).
-* **Front-end (Full Stack Competencies):** Angular, HTML5, CSS3.
+* **Front-end (Full Stack Competencies):** Angular, React, HTML5, CSS3.
 
 ---
 
@@ -37,6 +37,11 @@ Software Engineer with a solid foundation in Algorithms and Data Structures, cur
 * Lead the architecture and development of a modular Municipal School Management System using **NestJS (Backend)**, **Prisma**, and **PostgreSQL**.
 * Coordinate a team of front-end developers (Angular), accelerating the project timeline by approximately 2 months through effective productivity management.
 * Centralized the municipality's academic and financial management through an integrated, high-performance web solution, replacing 80% of the client's analog and paper-based activities.
+
+**Back-end Engineer** | Valentim (Academic Partnership)
+*Oct 2024 – Sep 2025*
+* Developed the back-end architecture for a centralized accounting management system using **Java and Quarkus**, designed to unify and process sensitive data from multiple corporate clients.
+* Architected complex integrations with legacy third-party systems and banking APIs, fully automating the issuance, reconciliation, and billing management workflows.
 
 **Full Stack & Automation Engineer** | Infinity System LTDA.
 *Jan 2023 – Oct 2024*

@@ -10,18 +10,18 @@ Campina Grande - PB, Brasil | 21 anos
 ---
 
 ## RESUMO PROFISSIONAL
-Desenvolvedor de Software com sólida base em Algoritmos e Estrutura de Dados, graduando em Ciência da Computação pela Universidade Federal de Campina Grande (UFCG). Profissional com Inglês Avançado, visão sistêmica e raciocínio analítico de excelência, especialista na construção de APIs robustas e Automação de Processos. Destaca-se pela capacidade de assumir arquiteturas do zero, liderar equipes e traduzir gargalos operacionais em soluções de alto impacto.
+Desenvolvedor de Software com sólida base em Algoritmos e Estrutura de Dados, graduando em Ciência da Computação pela Universidade Federal de Campina Grande (UFCG). Profissional com Inglês Avançado, visão sistêmica e raciocínio analítico de excelência, especialista na construção de APIs robustas (ecossistemas Java/Spring e Node.js) e Automação de Processos. Destaca-se pela capacidade de assumir arquiteturas do zero, liderar equipes e traduzir gargalos operacionais em soluções de alto impacto.
 
 ---
 
 ## COMPETÊNCIAS TÉCNICAS
 
-* **Linguagens:** TypeScript, JavaScript, Java, Python, C#, SQL, Clojure.
-* **Backend & APIs:**  Node.js, NestJS, .NET, Prisma ORM, Quarkus, REST APIs.
+* **Linguagens:** Java, TypeScript, JavaScript, Python, C#, SQL, Clojure.
+* **Backend & APIs:**  Java (Spring Boot, Quarkus), Node.js, NestJS, .NET, Prisma ORM, REST APIs.
 * **Automação de Processos:** n8n (Fluxos complexos e orquestração), Webhooks, Integrações de API, Excel/VBA Macros.
 * **Banco de Dados:** PostgreSQL, MySQL, Modelagem Relacional e Otimização de Queries.
 * **Ferramentas & DevOps:** Git/GitHub, Docker, Linux, Metodologias Ágeis (Scrum/Kanban).
-* **Front-end (Competências Fullstack):** Angular, HTML5, CSS3.
+* **Front-end (Competências Fullstack):** Angular, React, HTML5, CSS3.
 
 ---
 
@@ -38,6 +38,12 @@ Desenvolvedor de Software com sólida base em Algoritmos e Estrutura de Dados, g
 * Lidera a arquitetura e desenvolvimento de um Sistema de Gestão Escolar Municipal modular utilizando **NestJS (Backend)**, **Prisma** e **PostgreSQL**.
 * Coordena uma equipe de desenvolvedores front-end (Angular), antecipando cronograma em aproximadamente 2 meses por meio de gerência de produtividade.
 * Centralização da gestão acadêmica e financeira do município através de uma solução web integrada e de alta performance, substituindo 80% das atividades analógicas e em papel do cliente em um único sistema.
+
+**Desenvolvedor Back-end** | Valentim (Parceria Acadêmica)
+*Out 2024 – Set 2025*
+* Desenvolveu a arquitetura back-end de um sistema centralizado de gestão contábil utilizando Java e Quarkus, projetado para unificar e processar dados sensíveis de múltiplos clientes corporativos.
+* Arquitetou integrações complexas com sistemas legados de terceiros e APIs de instituições bancárias, automatizando 100% o fluxo de emissão, conciliação e gerenciamento de cobranças.
+
 
 **Desenvolvedor FullStack & Automação** | Infinity System LTDA.
 *Jan 2023 – Out 2024*
